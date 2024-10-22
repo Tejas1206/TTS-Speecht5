@@ -3,3 +3,4 @@ soundfile
 speechbrain
 git+https://github.com/huggingface/transformers.git
 accelerate
+jupyter notebook
