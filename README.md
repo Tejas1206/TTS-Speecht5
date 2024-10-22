@@ -17,7 +17,7 @@ Fine-tuning TTS for English with a focus on technical vocabulary and for Tamil l
    ```Shell
     pip install -r requirements.txt  
     ```
-4. **Run the Jupyter Notebooks**
+4. **Run Jupyter Notebook**
    ```Shell
     jupyter notebook  
     ```
