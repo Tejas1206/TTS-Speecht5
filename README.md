@@ -1,5 +1,5 @@
 # TTS-Speecht5
-Fine-tuning Speecht5 for English with a focus on technical vocabulary and for Tamil language
+Fine-tuned Text-to-Speech (TTS) SpeechT5 Model for English Technical Speech and Tamil Language.
 
 ### Overview of Text-to-Speech (TTS)
 
