@@ -1,6 +1,12 @@
 # TTS-Speecht5
 Fine-tuned Text-to-Speech (TTS) SpeechT5 Model for English Technical Speech and Tamil Language.
 
+### Web Application
+
+**huggingface link (TTS-English)**: https://huggingface.co/spaces/tejas1206/TTS-SpeechT5
+
+**huggingface link (TTS-Tamil)**: https://huggingface.co/spaces/tejas1206/TTS-SpeechT5-tamil
+
 ### Overview of Text-to-Speech (TTS)
 
 Text-to-Speech (TTS) technology converts written text into spoken voice output. It utilizes various algorithms and models to produce human-like speech, often incorporating natural language processing (NLP) and machine learning techniques.
@@ -45,9 +51,3 @@ Fine-tuning TTS models is crucial for several reasons:
     jupyter notebook  
     ```
 5. **Run the TTS-English.ipynb and speecht5-tts-ta.ipynb by setting the huggingface token and the location of the fine-tuned model**
-
-### Web Application
-
-**huggingface link (TTS-English)**: https://huggingface.co/spaces/tejas1206/TTS-SpeechT5
-
-**huggingface link (TTS-Tamil)**: https://huggingface.co/spaces/tejas1206/TTS-SpeechT5-tamil
